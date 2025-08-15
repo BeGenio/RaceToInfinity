@@ -1,4 +1,4 @@
-name: Deploy Unity WebGL
+name: Deploy WebGL to HostGator
 
 on:
   push:
